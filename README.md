@@ -19,8 +19,10 @@ This is a Big Integer Class, implemented in C++, for handling very large numbers
 6. **GCD** of two numbers, using Euclid's Division Algorithm.
 7. **LCM** of two numbers.
 
+## Issues
+
 I haven't added anything other than this, as to me, all other operations can be carried out as a combination of these basic operations.
-Nevertheless, feel free to ping me any operation which you might feel suits really good to the class.
+Nevertheless, **feel free to ping me** any operation which you might feel suits really good to the class.
 
 
 
