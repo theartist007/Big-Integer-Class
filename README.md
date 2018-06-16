@@ -13,11 +13,11 @@ This is a Big Integer Class, implemented in C++, for handling very large numbers
 
 1. **Addition** (shorthand notation too)
 2. **Subtraction** (shorthand notation too)
-3. Multiplication, using Karatsuba Algorithm.
-4. Division
-5. Modulus Operation
-6. GCD of two numbers, using Euclid's Division Algorithm.
-7. LCM of two numbers.
+3. **Multiplication**, using Karatsuba Algorithm.
+4. **Division**
+5. **Modulus Operation**
+6. **GCD** of two numbers, using Euclid's Division Algorithm.
+7. **LCM** of two numbers.
 
 I haven't added anything other than this, as to me, all other operations can be carried out as a combination of these basic operations.
 Nevertheless, feel free to ping me any operation which you might feel suits really good to the class.
