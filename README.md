@@ -11,8 +11,8 @@ This is a Big Integer Class, implemented in C++, for handling very large numbers
 
 ## Features
 
-1. Addition (shorthand notation too)
-2. Subtraction (shorthand notation too)
+1. **Addition** (shorthand notation too)
+2. **Subtraction** (shorthand notation too)
 3. Multiplication, using Karatsuba Algorithm.
 4. Division
 5. Modulus Operation
